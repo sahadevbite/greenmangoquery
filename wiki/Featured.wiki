@@ -1,5 +1,5 @@
 #summary One-sentence summary of this page.
-#labels Featured
+#labels Featured,mongo,java,swing,client,database
 
 = Introduction =
 
@@ -8,4 +8,3 @@ GreenMangoQuery is java based monog client .
 
 
 = Details =
-
